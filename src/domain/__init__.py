@@ -1,0 +1,1 @@
+## domain should be use to represtent the entities of the system, exception, ports and enums

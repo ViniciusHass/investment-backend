@@ -1,0 +1,1 @@
+## this is the service layer it should create folder for each domain, the service should be a low level representation of a bussines rule, and should be used by the usecases to implement the bussiness rules

@@ -1,0 +1,1 @@
+## folder for the api dependencies like database connections, health checks, etc.

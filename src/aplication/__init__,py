@@ -1,0 +1,6 @@
+## this is the applications layer it should it have two foders, one for usecases, and another one for services
+## use cases should be a high level representation of a bussines rule, and services ins the implementation of each step of a bussiness rule
+## so my usecase should receive a request from my controller, and orchertrate the flow using the services
+## ter services should connect to external frameworks like databases, message brokers, etc. and should be used by the usecases to implement the bussines rules
+## inside the application layer shouldnt exist any connection to external frameworks like databases, message brokers, etc. the application layer should be framework agnostic, and should be used by the api layer to implement the bussines rules
+## but is possible to the api layer use a domain entity or dto to represent the request and response of the api

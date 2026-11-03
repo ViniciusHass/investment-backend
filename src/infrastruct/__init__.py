@@ -1,0 +1,1 @@
+## where should be create folder for each external framework like databases, and comunication with the financial tools, and inside each folder should be implemented the connection with the external framework, and the implementation of the ports that are used by the services to connect with the external framework

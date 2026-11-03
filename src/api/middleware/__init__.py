@@ -1,0 +1,2 @@
+## folder for middleware implementations like authentication, logging, etc.
+## this application probably could use a middleware for structured logging, whn implemente logging think about tracabelity add info in as extra so it is easier to trace the request through the logs, also think about adding a correlation id to the request and response headers so it is easier debugg with the log, and not have a bunch of lost concepts being searched in the code
