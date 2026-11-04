@@ -4,3 +4,4 @@ The owner performs initial scaffolding. FastAPI, Python, uv, SQLAlchemy, Alembic
 
 Write code and configuration comments in English.
 For each approved implementation, create a separate branch and worktree from `develop`; open a PR targeting `develop` after tests and review. The owner alone approves and performs merges.
+Make subsequent commits atomic: one coherent change per commit, with a Conventional Commit subject. Agent-authored commits use `Codex <codex@users.noreply.github.com>` without changing the owner's global Git identity. Keep already published commits unchanged. Plan SemVer releases in a later approved card; do not create version tags automatically.
