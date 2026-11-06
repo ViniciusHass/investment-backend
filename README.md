@@ -1,3 +1,3 @@
 # Investment Backend
 
-Repository initialized intentionally without application scaffolding. The owner will create the FastAPI + Poetry + SQLAlchemy + Alembic project. Follow the Factory specifications and `AGENTS.md`. Do not generate backend code without an approved card.
+The owner is creating the initial FastAPI + uv + SQLAlchemy + Alembic project. The current repository contains an initial package tree; dependency manifests, migrations and API contracts are still to be added. Follow the Factory specifications and `AGENTS.md`. Do not generate backend product code without an approved card.
